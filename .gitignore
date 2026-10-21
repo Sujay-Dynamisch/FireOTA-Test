@@ -73,3 +73,11 @@ yarn-error.log
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+# FireOTA
+*.fota
+fireota-keys/fireota-private.pem
+
+# Firebase config
+android/app/google-services.json
+ios/**/GoogleService-Info.plist

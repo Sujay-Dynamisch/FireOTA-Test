@@ -1,4 +1,4 @@
-package com.fireota_test
+package com.fireota.test
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
